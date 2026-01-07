@@ -22,7 +22,7 @@
 
 1. Clone this repository:
 
-git clone https://github.com/YOURUSERNAME/securevault.git
+git clone https://github.com/szizzo522/securevault.git
 
 2.	Navigate to the project directory:
 
