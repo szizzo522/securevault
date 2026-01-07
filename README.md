@@ -48,22 +48,21 @@ python securevault.py
 
 
 Usage
-	1.	First Time Setup
+1.	First Time Setup
 	•	Create a master password
 	•	Save the recovery key (or scan the QR code)
-	2.	Login
+2.	Login
 	•	Enter your master password to access your vault
 	•	If you forget your password, use the recovery key to reset it
-	3.	Vault Management
+3.	Vault Management
 	•	Add new entries with website, username, and password
 	•	Delete entries as needed
 	•	Use the password generator for strong passwords
 
 ⸻
-
 Security
-	-	All passwords are stored encrypted in a local SQLite database
-	-	Master password uses SHA256 hashing
-	-	Vault entries are encrypted with Fernet symmetric encryption
-	-	Recovery key ensures account can be restored if master password is lost
+-	All passwords are stored encrypted in a local SQLite database
+-	Master password uses SHA256 hashing
+-	Vault entries are encrypted with Fernet symmetric encryption
+-	Recovery key ensures account can be restored if master password is lost
 
