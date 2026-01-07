@@ -32,7 +32,6 @@
 
 1. Clone this repository:
 
-```bash
 git clone https://github.com/YOURUSERNAME/securevault.git
 
 2.	Navigate to the project directory:
