@@ -62,8 +62,8 @@ Usage
 ⸻
 
 Security
-	•	All passwords are stored encrypted in a local SQLite database
-	•	Master password uses SHA256 hashing
-	•	Vault entries are encrypted with Fernet symmetric encryption
-	•	Recovery key ensures account can be restored if master password is lost
+	-	All passwords are stored encrypted in a local SQLite database
+	-	Master password uses SHA256 hashing
+	-	Vault entries are encrypted with Fernet symmetric encryption
+	-	Recovery key ensures account can be restored if master password is lost
 
