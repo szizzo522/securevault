@@ -16,17 +16,7 @@
 
 ---
 
-## Demo / Screenshots
 
-*Add screenshots of your running application here. Example:*
-
-![Vault Screen](screenshots/vault.png)  
-*SecureVault main interface displaying stored entries.*
-
-![Recovery QR](screenshots/recovery_qr.png)  
-*Recovery key displayed as a QR code.*
-
----
 
 ## Installation
 
