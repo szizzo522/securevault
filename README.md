@@ -68,7 +68,3 @@ Security
 	•	Vault entries are encrypted with Fernet symmetric encryption
 	•	Recovery key ensures account can be restored if master password is lost
 
-License
-
-This project is for educational purposes. Feel free to explore, modify, and improve it.
-
